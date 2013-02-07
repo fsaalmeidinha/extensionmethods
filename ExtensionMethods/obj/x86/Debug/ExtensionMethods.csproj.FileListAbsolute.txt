@@ -1,0 +1,5 @@
+C:\Users\Felipe\Desktop\ExtensionMethods\ExtensionMethods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Felipe\Desktop\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Felipe\Desktop\ExtensionMethods\ExtensionMethods\obj\x86\Debug\ExtensionMethods.exe
+C:\Users\Felipe\Desktop\ExtensionMethods\ExtensionMethods\obj\x86\Debug\ExtensionMethods.pdb
